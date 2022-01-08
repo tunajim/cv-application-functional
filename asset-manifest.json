@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cv-application/static/css/main.c8e47ad3.css",
-    "main.js": "/cv-application/static/js/main.6754f8a8.js",
-    "static/media/email.png": "/cv-application/static/media/email.a322baaae53f21cc4962.png",
-    "static/media/navigation.png": "/cv-application/static/media/navigation.eba38f855d5ca08aeabc.png",
-    "static/media/addComponent.png": "/cv-application/static/media/addComponent.4f2c7a89567b890d9524.png",
-    "static/media/linkedin.png": "/cv-application/static/media/linkedin.f249b38224ca41a0b909.png",
-    "index.html": "/cv-application/index.html",
-    "main.c8e47ad3.css.map": "/cv-application/static/css/main.c8e47ad3.css.map",
-    "main.6754f8a8.js.map": "/cv-application/static/js/main.6754f8a8.js.map"
+    "main.css": "/cv-application-functional/static/css/main.c8e47ad3.css",
+    "main.js": "/cv-application-functional/static/js/main.c9691dfa.js",
+    "static/media/email.png": "/cv-application-functional/static/media/email.a322baaae53f21cc4962.png",
+    "static/media/navigation.png": "/cv-application-functional/static/media/navigation.eba38f855d5ca08aeabc.png",
+    "static/media/addComponent.png": "/cv-application-functional/static/media/addComponent.4f2c7a89567b890d9524.png",
+    "static/media/linkedin.png": "/cv-application-functional/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/cv-application-functional/index.html",
+    "main.c8e47ad3.css.map": "/cv-application-functional/static/css/main.c8e47ad3.css.map",
+    "main.c9691dfa.js.map": "/cv-application-functional/static/js/main.c9691dfa.js.map"
   },
   "entrypoints": [
     "static/css/main.c8e47ad3.css",
-    "static/js/main.6754f8a8.js"
+    "static/js/main.c9691dfa.js"
   ]
 }
